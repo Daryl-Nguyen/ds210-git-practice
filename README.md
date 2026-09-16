@@ -11,5 +11,5 @@ cargo run
 Fade CGS
 
 ## Members
-
 - Daryl Nguyen
+- Nico Shea

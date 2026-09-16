@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-Aura Farmers
+Fade CGS
 
 ## Members
-
+- Daryl Nguyen
 - Nico Shea
